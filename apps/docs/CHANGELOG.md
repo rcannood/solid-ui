@@ -1,5 +1,11 @@
 # docs
 
+## 0.4.4
+
+### Patch Changes
+
+- [#147](https://github.com/sek-consulting/solid-ui/pull/147) [`185cf99`](https://github.com/sek-consulting/solid-ui/commit/185cf99f108c831b81ee896858497c998b7d216a) Thanks [@daelmaak](https://github.com/daelmaak)! - prevent layout bugs due to checkbox's positioning
+
 ## 0.4.3
 
 ### Patch Changes
